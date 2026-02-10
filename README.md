@@ -14,6 +14,7 @@
 `code`
 ---
 [ECE-322-0.pptx](https://sit.instructure.com/courses/84254/modules/items/2786099)
-![A](https://fineartamerica.com/art/photographs/beautiful)
+![A](https://render.fineartamerica.com/images/rendered/medium/print/6/8/break/images-medium-5/awesome-solitude-bess-hamiti.jpg)
+
 
 
