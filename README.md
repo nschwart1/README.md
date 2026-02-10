@@ -14,5 +14,6 @@
 `code`
 ---
 [ECE-322-0.pptx](https://sit.instructure.com/courses/84254/modules/items/2786099)
-![alt image](https://www.dreamstime.com/photos-images/nature.html)
+![A](https://fineartamerica.com/art/photographs/beautiful)
+
 
